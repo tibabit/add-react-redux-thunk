@@ -1,6 +1,6 @@
 {
   "name": "add-react-redux-thunk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "add redux and thunk support in your react app",
   "main": "index.js",
   "scripts": {
