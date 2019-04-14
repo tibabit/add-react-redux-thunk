@@ -21,7 +21,7 @@
     "url": "https://github.com/tibabit/add-react-redux-thunk"
   },
   "bin": {
-    "add-react-redux-thunk": "./index.js"
+    "add-react-redux-thunk": "./bin/add-react-redux-thunk"
   },
   "license": "MIT",
   "dependencies": {
