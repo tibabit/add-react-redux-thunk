@@ -12,7 +12,7 @@ const defaultState = {
   data: null,
 };
 
-const reducer = (state defaultState, action) => {
+const reducer = (state = defaultState, action) => {
   switch(action.type) {
     /*
     case 'DATA_FETCHED':

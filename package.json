@@ -15,13 +15,10 @@
     "flux"
   ],
   "author": "Vikash Kesarwani (vikash.ckiiita30@gmail.com)",
+  "repository": "https://github.com/tibabit/add-react-redux-thunk",
   "license": "MIT",
-  "peerDependencies": {
-    "react-redux": "7.x",
-    "redux": "4.x",
-    "redux-thunk": "2.x"
-  },
   "dependencies": {
+    "chalk": "^2.4.2",
     "ncp": "^2.0.0"
   }
 }
