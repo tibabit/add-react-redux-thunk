@@ -1,0 +1,27 @@
+{
+  "name": "add-react-redux-thunk",
+  "version": "0.0.1",
+  "description": "add redux and thunk support in your react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs",
+    "redux",
+    "thunk",
+    "async",
+    "flux"
+  ],
+  "author": "Vikash Kesarwani (vikash.ckiiita30@gmail.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-redux": "7.x",
+    "redux": "4.x",
+    "redux-thunk": "2.x"
+  },
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
